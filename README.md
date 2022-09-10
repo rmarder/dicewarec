@@ -13,9 +13,6 @@ Monroe’s [xkcd#936][xkcd-936]:
   mirror][reinhold-wordlist-asc-wayback]).
 * The [Beale wordlist][beale-wordlist-asc] ([Wayback Machine
   mirror][beale-wordlist-asc-wayback]).
-* The [MiniLock][minilock] ([github][minilock-github])wordlist. (found in the
-  [phrase.js][minilock-phrase-js] file)
-* The all new `--wordlist-file` command line option which loads and uses your very own newline delimited wordlist file. Inquire within!
 
 [arnold]: <https://theworld.com/~reinhold/>
 [diceware]: <https://theworld.com/~reinhold/diceware.html>
@@ -25,12 +22,8 @@ Monroe’s [xkcd#936][xkcd-936]:
 
 [beale-wordlist-asc]: <https://theworld.com/~reinhold/beale.wordlist.asc>
 [reinhold-wordlist-asc]: <https://theworld.com/~reinhold/diceware.wordlist.asc>
-[minilock-phrase-js]: <https://github.com/kaepora/miniLock/blob/71dcf431886068c9ec7f563c3e4158153229b202/src/js/lib/phrase.js>
 
 [beale-wordlist-asc-wayback]: <https://web.archive.org/web/20220602072646/https://theworld.com/~reinhold/beale.wordlist.asc>
 [reinhold-wordlist-asc-wayback]: <https://web.archive.org/web/20220820102521/https://theworld.com/~reinhold/diceware.wordlist.asc>
 
 [xkcd-936]: <https://www.explainxkcd.com/wiki/index.php/936>
-
-[minilock]: <http://minilock.io>
-[minilock-github]: <https://github.com/kaepora/miniLock/>

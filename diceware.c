@@ -27,7 +27,7 @@ int roll_dice(const int min, const int max)
 }
 
 /* this converts between real int numbers and ascii numbers, similar to atoi(). ascii '0' is 48 */
-int ctoi(int c)
+int ctoi(const int c)
 {
 	return c - '0';
 }

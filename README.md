@@ -7,7 +7,7 @@ Inspired by the great passphrase generating solution [Diceware][diceware]
 Reinhold][arnold] ([Wayback Machine mirror][arnold-wayback]) and by Randall
 Monroe’s [xkcd#936][xkcd-936]:
 
-## Featuring
+## Use requires a valid wordlist.txt - you can use one of these to get started.
 
 * The original [Reinhold wordlist][reinhold-wordlist-asc] ([Wayback Machine
   mirror][reinhold-wordlist-asc-wayback]).

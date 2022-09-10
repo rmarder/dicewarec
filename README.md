@@ -27,3 +27,17 @@ Monroe’s [xkcd#936][xkcd-936]:
 [reinhold-wordlist-asc-wayback]: <https://web.archive.org/web/20220820102521/https://theworld.com/~reinhold/diceware.wordlist.asc>
 
 [xkcd-936]: <https://www.explainxkcd.com/wiki/index.php/936>
+
+# Sample Usage
+```
+$ make
+cc -o dicewarec diceware.c
+$ ./dicewarec 
+How many words do you want in your password? 4
+Creating password with 4 words...
+Word 1: judo
+Word 2: dust
+Word 3: gloom
+Word 4: orchid
+$ 
+```

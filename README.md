@@ -1,6 +1,6 @@
 # dicewarec - a password generator using the diceware word lists
 Commandline [Diceware][diceware] ([Wayback Machine mirror][diceware-wayback]),
-sans dice, written in C89 with no dependencies.
+sans dice, written in C99 with no dependencies.
 
 Inspired by the great passphrase generating solution [Diceware][diceware]
 ([Wayback Machine mirror][diceware-wayback]) invented by [Arnold G.
